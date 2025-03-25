@@ -1,0 +1,173 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 100C Model Setup 'SPI_SCK'
+Slack : -6.911
+TNS   : -96.636
+
+Type  : Slow 1200mV 100C Model Setup 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -5.231
+TNS   : -194.712
+
+Type  : Slow 1200mV 100C Model Setup 'CLOCK_50'
+Slack : -2.852
+TNS   : -175.735
+
+Type  : Slow 1200mV 100C Model Hold 'CLOCK_50'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.335
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'SPI_SCK'
+Slack : 0.422
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Recovery 'SPI_SCK'
+Slack : -4.605
+TNS   : -27.165
+
+Type  : Slow 1200mV 100C Model Recovery 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 27.446
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Removal 'SPI_SCK'
+Slack : 2.674
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Removal 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.651
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.657
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.614
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'SPI_SCK'
+Slack : 20.419
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'mtx512|clock12_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 41.513
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'SPI_SCK'
+Slack : -6.042
+TNS   : -80.464
+
+Type  : Slow 1200mV -40C Model Setup 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -4.512
+TNS   : -164.569
+
+Type  : Slow 1200mV -40C Model Setup 'CLOCK_50'
+Slack : -2.683
+TNS   : -169.300
+
+Type  : Slow 1200mV -40C Model Hold 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.313
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'CLOCK_50'
+Slack : 0.323
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'SPI_SCK'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Recovery 'SPI_SCK'
+Slack : -4.325
+TNS   : -25.525
+
+Type  : Slow 1200mV -40C Model Recovery 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 28.988
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'SPI_SCK'
+Slack : 2.580
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 8.450
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.617
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.600
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'SPI_SCK'
+Slack : 20.524
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'mtx512|clock12_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 41.560
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'SPI_SCK'
+Slack : -3.207
+TNS   : -46.626
+
+Type  : Fast 1200mV -40C Model Setup 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -2.438
+TNS   : -92.822
+
+Type  : Fast 1200mV -40C Model Setup 'CLOCK_50'
+Slack : -1.223
+TNS   : -78.908
+
+Type  : Fast 1200mV -40C Model Hold 'CLOCK_50'
+Slack : 0.115
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'SPI_SCK'
+Slack : 0.174
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Recovery 'SPI_SCK'
+Slack : -1.912
+TNS   : -11.182
+
+Type  : Fast 1200mV -40C Model Recovery 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 33.635
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'SPI_SCK'
+Slack : 0.741
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 4.869
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.229
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'mtx512|pll|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 19.733
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'SPI_SCK'
+Slack : 19.970
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'mtx512|clock12_pll|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 41.600
+TNS   : 0.000
+
+------------------------------------------------------------
